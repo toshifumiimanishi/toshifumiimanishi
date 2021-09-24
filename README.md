@@ -41,3 +41,22 @@ Here are some ideas to get you started:
         <img src="https://qiita-badge.apiapi.app/s/toshifumiimanishi/contributions.svg" alt="" />
     </a>
 </p>
+
+<p align="left">
+    <a href="https://github.com/toshifumiimanishi">
+        <img
+                align="left"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshifumiimanishi&layout=compact&count_private=true&theme=monokai"
+                height="150"
+                alt=""
+        />
+    </a>
+    <a href="https://github.com/toshifumiimanishi">
+        <img
+                align="left"
+                src="https://github-readme-stats.vercel.app/api?username=toshifumiimanishi&count_private=true&show_icons=true&theme=monokai"
+                height="150"
+                alt=""
+        />
+    </a>
+</p>
