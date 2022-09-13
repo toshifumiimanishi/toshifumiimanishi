@@ -19,8 +19,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/toshifumiimanishi/toshifumiimanishi/" target="_blank" rel="noopener">
         <img src="https://komarev.com/ghpvc/?username=toshifumiimanishi" alt="" />
     </a>
-    <a href="https://twitter.com/toshimarnie" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/twitter/follow/toshimarnie?label=Twitter&logo=twitter&style=flat" alt="" />
+    <a href="https://twitter.com/ximuhata" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/twitter/follow/ximuhata?label=Twitter&logo=twitter&style=flat" alt="" />
     </a>
     <a href="https://zenn.dev/toshimarnie" target="_blank" rel="noopener">
         <img src="https://zenn.badge.nikaera.com/s/toshimarnie/likes" alt="" />
